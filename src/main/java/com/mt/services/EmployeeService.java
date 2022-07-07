@@ -27,6 +27,10 @@ public class EmployeeService {
 		js.put("DOB", "2020-oct-12");
 		js.put("Students", "John,Daniel, James, Mary");
 		js.put("DevOps Tool", "Jenkins, maven, github, gitlab,nexus, tomcat");
+		js.put("Calling Name", "Landmark");
+		js.put("DOB", "2020-oct-12");
+		js.put("Students", "John,Daniel, James, Mary");
+		js.put("DevOps Tool", "Jenkins, maven, github, gitlab,nexus, tomcat");
 
 		return js.toString();
 }
