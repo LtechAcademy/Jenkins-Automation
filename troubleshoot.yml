@@ -3,3 +3,7 @@
 
 <role rolename="admin-gui" />
 <user username="admin" password="admin123" roles="manager-gui,admin-gui,manager-script" />
+
+DEPLOYER: 
+username: prince
+password:  admin123
