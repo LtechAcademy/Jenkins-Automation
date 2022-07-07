@@ -24,7 +24,7 @@ public class EmployeeService {
 		JSONObject js = new JSONObject();
 		js.put("Name", "LION TECH ACADEMY");
 		js.put("Calling Name", "Landmark");
-		js.put("DOB", "08-Nov-2011");
+		js.put("DOB", "2020-oct-12");
 		js.put("Hobbies", "Reading Technical Blogs,Teaching, Changing lives..");
 		js.put("DevOps Tool", "Jenkins, maven, github, gitlab,nexus, tomcat");
 
