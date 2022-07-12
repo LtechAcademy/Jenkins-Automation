@@ -31,7 +31,7 @@ node{
     emailext body: '''Build status for frontend application.
 
 Regards,
-LION TECH ACADEMY''', recipientProviders: [buildUser(), developers(), contributor()], subject: 'Build Status', to: 'paypal-team@gmail.com'
+Lion Tech Academy''', recipientProviders: [buildUser(), developers(), contributor()], subject: 'Build Status', to: 'paypal-team@gmail.com'
  }
 
 }  
