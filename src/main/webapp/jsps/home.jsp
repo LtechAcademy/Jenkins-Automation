@@ -34,9 +34,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
+                Vickysystems Technology, 
 		Toronto, Ontario, Canada
-		+1 437 215 2483,
+		+647-381-8836,
 		info@myliontechnologies.com
 		<br>
 		<a href="mailto:info@myliontechnologies.com">Mail to LION TECH ACADEMY</a>
